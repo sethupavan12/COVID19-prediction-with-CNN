@@ -7,4 +7,4 @@ This is an application of a Deep Learning model that uses Transfer Learning to p
 # Alright what about Transfer Learning?
 Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
 
-![](COVID.jpg)
+![COVID](https://github.com/sethupavan12/COVID19-prediction-with-CNN/blob/master/COVID.JPG)
